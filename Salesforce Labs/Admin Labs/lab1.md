@@ -1,11 +1,9 @@
 # Lab 1.1 - Exploring Salesforce Editions and Core Features
-
-**Scenario:**  
 As a CRM intern, I want to explore the Salesforce platform and compare editions so I can recommend the right version for our company and understand the core features.
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 - Understand different Salesforce editions  
 - Identify key Salesforce apps and features  
 - Navigate through the Salesforce Lightning UI  
@@ -13,7 +11,7 @@ As a CRM intern, I want to explore the Salesforce platform and compare editions 
 
 ---
 
-## 🛠️ Steps to Perform (Lab Solution)
+##  Steps to Perform (Lab Solution)
 
 ### 1. Login to Salesforce Developer Org
 - Use **Trailhead Playground** or a fresh **Developer Edition**.  
@@ -52,7 +50,5 @@ As a CRM intern, I want to explore the Salesforce platform and compare editions 
 
 ---
 
-## ✅ Deliverables
-- Notes on edition comparison (at least 3 differences).  
-- Short written summary with recommendations.  
+
 
