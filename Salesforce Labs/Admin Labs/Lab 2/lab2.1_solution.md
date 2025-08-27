@@ -47,6 +47,7 @@ To become familiar with the Salesforce Lightning Experience interface and practi
     > Welcome to your personalized Sales Dashboard!
 - **Activation:** Applied changes for **Sales App only**.
 - **Outcome:** Customized Home Page now displays welcome message when using Sales App.
+  ![alt text](image.png)
 
 ---
 
@@ -57,6 +58,7 @@ To become familiar with the Salesforce Lightning Experience interface and practi
   - Added tabs: **Reports, Dashboards, Campaigns**
   - Reordered so that **Reports appear second** in the navigation bar.
 - **Outcome:** Sales App navigation updated with additional tabs and correct order.
+  ![alt text](image-1.png)
 
 ---
 
@@ -68,6 +70,3 @@ To become familiar with the Salesforce Lightning Experience interface and practi
 - All changes visible in Salesforce Lightning Experience.
 
 ---
-
-![alt text](image.png)
-![alt text](image-1.png)
