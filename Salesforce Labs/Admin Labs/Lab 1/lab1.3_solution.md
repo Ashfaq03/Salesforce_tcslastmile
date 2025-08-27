@@ -74,3 +74,6 @@ To explore and understand the core components of the Salesforce platform — inc
 - Reviewed **Sales App vs Service App** tabs and navigation style.
 
 ---
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
