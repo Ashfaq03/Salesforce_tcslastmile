@@ -1,4 +1,4 @@
-## ✅ Solution
+## Solution
 
 ### 1. Login to Salesforce Developer Org
 
