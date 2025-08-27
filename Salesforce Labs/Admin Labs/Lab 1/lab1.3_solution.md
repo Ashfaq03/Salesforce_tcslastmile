@@ -59,8 +59,8 @@ To explore and understand the core components of the Salesforce platform — inc
 - **Action:**
   - Switched between **Sales App** and **Service App** from App Launcher.
   - Observed:
-    - Sales App → Tabs: Leads, Accounts, Opportunities, Reports.
-    - Service App → Tabs: Cases, Knowledge, Service Setup.
+    - Sales App → Tabs: Leads, Accounts, Opportunities, Leads.
+    - Service App → Tabs: Cases, Reports, Chatter.
   - Setup → **App Manager → Sales App (View mode)**.
   - Reviewed available tabs and **navigation style (Standard app)**.
 - **Outcome:** Understood differences in app structure and tab availability.
