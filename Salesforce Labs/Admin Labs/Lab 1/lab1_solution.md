@@ -1,5 +1,3 @@
-# Lab 1.1 - Exploring Salesforce Editions and Core Features
-
 ## ✅ Solution
 
 ### 1. Login to Salesforce Developer Org
