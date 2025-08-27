@@ -71,3 +71,5 @@ To explore the Salesforce platform and understand its core purpose, features, an
 - ✅ Successfully created a **sample account record (ABC Corp)**  
 
 ---
+![alt text](image.png)
+![alt text](image-1.png)
